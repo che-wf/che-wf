@@ -1,4 +1,4 @@
-### Hi there, I'm Josh,
+### Hi there, I'm Josh.
 I'm Frontend Engineer based in Colorado Springs, CO.
 - 👨🏻‍💻 My current stack is React, PHP, MySQL
 - 🌱 I’m currently learning more Python paired with Rasberry Pi and also Arduino
