@@ -1,6 +1,6 @@
 ### Hi there, I'm Josh.
 I'm Frontend Engineer based in Colorado Springs, CO.
-- 👨🏻‍💻 My current focuus is on React
+- 👨🏻‍💻 My current focus is on React
 - 🌱 I’m currently learning more Python paired with Rasberry Pi and also Arduino
 
 **Languages:**  
