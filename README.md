@@ -27,3 +27,4 @@ I'm Frontend Engineer based in Colorado Springs, CO.
 ![Jira](https://github.com/vorillaz/devicons/blob/master/!PNG/jira.png?raw=true&s=50)
 
 ![Che's GitHub Stats](https://github-readme-stats.vercel.app/api?username=che-wf&show_icons=true&hide=["issues"])
+img{background-color:transparent}
