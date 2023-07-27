@@ -1,5 +1,5 @@
 ### Hi there, I'm Josh.
-I'm Frontend Engineer based in Colorado Springs, CO.
+I'm Frontend Engineer based in Parker, CO.
 - 👨🏻‍💻 My current focus is on React
 - 🌱 I’m currently learning more Python paired with Rasberry Pi and also Arduino
 
