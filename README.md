@@ -1,12 +1,12 @@
 ### Hi there, I'm Josh
 
-I'm a Frontend Engineer based in Parker, CO, with a passion for collaboration and innovation. I thrive on working with talented peers to bring new products and projects to life. My current focus is on React, and I enjoy solving intriguing problems and puzzles through code.
+I'm a Frontend Engineer based in Denver, with a passion for collaboration and innovation. I thrive on working with talented peers to bring new products and projects to life. My current focus is on React, and I enjoy solving intriguing problems and puzzles through code.
 
 - 🌱 Always learning and growing in the ever-evolving tech landscape.
 - 🌿 Exploring new technologies like Python, Raspberry Pi, and Arduino.
 - 🤝 Collaborating with design teams to implement clean, efficient, and elegant code.
 - 🌟 Turning innovative ideas into real, user-friendly solutions.
-- 🍕 Collaborating with my team at Domino's to develop and enhance internal applications and tools.
+- 🍕 Collaborating with my team at [@dominos-pizza](https://github.com/dominos-pizza) to develop and enhance internal applications and tools.
 
 
 **Technologies I Use:**  
