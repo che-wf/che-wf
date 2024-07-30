@@ -1,6 +1,6 @@
 ### Hi there, I'm Josh
 
-I'm a Frontend Engineer based in Denver, with a passion for collaboration and innovation. I thrive on working with talented peers to bring new products and projects to life. My current focus is on React, and I enjoy solving intriguing problems and puzzles through code.
+I'm a Frontend Engineer based near Denver, with a passion for collaboration and innovation. I thrive on working with talented peers to bring new products and projects to life. My current focus is on React, and I enjoy solving intriguing problems and puzzles through code.
 
 - 🌱 Always learning and growing in the ever-evolving tech landscape.
 - 🌿 Exploring new technologies like Python, Raspberry Pi, and Arduino.
