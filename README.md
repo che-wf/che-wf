@@ -1,27 +1,15 @@
 ### Hi there, I'm Josh
 
-I'm a Frontend Engineer based near Denver, with a passion for collaboration and innovation. I thrive on working with talented peers to bring new products and projects to life. My current focus is on React, and I enjoy solving intriguing problems and puzzles through code.
+
+I’m a Frontend Engineer based near Denver with over a decade of experience crafting thoughtful, user-focused applications. I love turning real-world complexity into elegant, approachable tools—especially when they help people feel more in control of their lives.
+
+Whether I’m building internal tools in a fast-paced environment or exploring new ideas in my personal time, I care deeply about the **why** behind the work. I'm most alive when I'm designing with empathy, developing with clarity, and learning something new along the way.
 
 - 🌱 Always learning and growing in the ever-evolving tech landscape.
 - 🌿 Exploring new technologies like Python, Raspberry Pi, and Arduino.
-- 🤝 Collaborating with design teams to implement clean, efficient, and elegant code.
 - 🌟 Turning innovative ideas into real, user-friendly solutions.
+- 🤝 Big fan of clear UX, clean code, and cross-functional collaboration.
+- 🛠️ Prototyping ideas that blend technology with real human needs.
 - 🍕 Collaborating with my team at [@dominos-pizza](https://github.com/dominos-pizza) to develop and enhance internal applications and tools.
 
-
-**Technologies I Use:**  
-
-![React](https://github.com/vorillaz/devicons/blob/master/!PNG/react.png?raw=true&s=50)
-![JavaScript](https://github.com/vorillaz/devicons/blob/master/!PNG/javascript_1.png?raw=true&s=50)
-![CSS 3](https://github.com/vorillaz/devicons/blob/master/!PNG/css3.png?raw=true&s=50)
-![Ubuntu](https://github.com/vorillaz/devicons/blob/master/!PNG/ubuntu.png?raw=true&s=50)
-![Python](https://github.com/vorillaz/devicons/blob/master/!PNG/python.png?raw=true&s=50)
-![Raspberry Pi](https://github.com/vorillaz/devicons/blob/master/!PNG/rasberry_pi.png?raw=true&s=50)
-![Visual Studio](https://github.com/vorillaz/devicons/blob/master/!PNG/visualstudio.png?raw=true&s=50)
-![Apple](https://github.com/vorillaz/devicons/blob/master/!PNG/apple.png?raw=true&s=50)
-![WordPress](https://github.com/vorillaz/devicons/blob/master/!PNG/wordpress.png?raw=true&s=50)
-![Terminal](https://github.com/vorillaz/devicons/blob/master/!PNG/terminal.png?raw=true&s=50)
-![Google Analytics](https://github.com/vorillaz/devicons/blob/master/!PNG/google_analytics.png?raw=true&s=50)
-![Jira](https://github.com/vorillaz/devicons/blob/master/!PNG/jira.png?raw=true&s=50)
-
-
+> I care about building things that make life a little easier, a little clearer, and a little more human.
